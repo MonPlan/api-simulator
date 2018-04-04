@@ -1,0 +1,24 @@
+{
+  "name": "fake-site-down",
+  "version": "0.1.0",
+  "description": "A Microservce for taking Screenshot s",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lorderikir/fake-site-down.git"
+  },
+  "keywords": ["Screenshot", "Microservice", "Headlessbrowser"],
+  "author": "lorderikir",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lorderikir/fake-site-down/issues"
+  },
+  "homepage": "https://github.com/lorderikirfake-site-down#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
