@@ -1,4 +1,4 @@
-# fake-site-down
+# API Simulator
 
 API Server to simulate broken routes as status codes. Awesome for Frontend Developement
 
@@ -18,4 +18,4 @@ Error 404: https://api-sim.now.sh?status=404
 
 This is licensed under `MIT`
 
-![powered by monPlan](https://i.imgur.com/siLz1Yr.png)
+<img width="80%" src="https://i.imgur.com/siLz1Yr.png" alt="powered by monPlan" />
