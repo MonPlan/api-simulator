@@ -2,7 +2,7 @@
 
 API Server to simulate broken routes as status codes. Awesome for Frontend Developement
 
-Try it out at: https://fake-site-down-xerzpgkvco.now.sh
+Try it out at: api-sim.now.sh
 
 Currently takes in Query Params
 
@@ -12,7 +12,7 @@ Currently takes in Query Params
 
 For example:
 
-Error 404: https://fake-site-down-xerzpgkvco.now.sh?status=404
+Error 404: https://api-sim.now.sh?status=404
 
 # LICENSE
 

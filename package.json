@@ -1,5 +1,5 @@
 {
-  "name": "fake-site-down",
+  "name": "api-sim",
   "version": "0.1.0",
   "description": "A Microservce for taking Screenshot s",
   "main": "index.js",
