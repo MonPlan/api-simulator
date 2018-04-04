@@ -1,6 +1,6 @@
 # fake-site-down
 
-API Server to Test out Broken Routes
+API Server to simulate broken routes as status codes. Awesome for Frontend Developement
 
 Try it out at: https://fake-site-down-xerzpgkvco.now.sh
 
