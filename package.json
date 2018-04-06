@@ -1,6 +1,6 @@
 {
   "name": "api-sim",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "description": "A Microservce for taking Screenshot s",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,7 @@
     "type": "git",
     "url": "git+https://github.com/lorderikir/fake-site-down.git"
   },
-  "keywords": ["Screenshot", "Microservice", "Headlessbrowser"],
+  "keywords": ["Microservice", "API", "Simulator"],
   "author": "lorderikir",
   "license": "MIT",
   "bugs": {
@@ -19,6 +19,8 @@
   },
   "homepage": "https://github.com/lorderikirfake-site-down#readme",
   "dependencies": {
-    "express": "^4.16.3"
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "now": "^11.0.6"
   }
 }
