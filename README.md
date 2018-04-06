@@ -25,7 +25,10 @@ Error 404: https://api-sim.now.sh?status=404
 
 ```
 {
-  status: statusCode
+  status: {
+    code: statusCode # or 200 by default
+    msg: #status message
+  }
 }
 ```
 
@@ -44,7 +47,10 @@ Error 404: https://api-sim.now.sh?status=404
 
 ```
 {
-  status: statusCode
+  status: {
+    code: statusCode # or 200 by default
+    msg: #status message
+  }
   ...your response
 }
 ```

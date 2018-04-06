@@ -1,6 +1,6 @@
 {
   "name": "api-sim",
-  "version": "0.1.2",
+  "version": "0.1.5",
   "description": "An API Simulating API Responses",
   "main": "index.js",
   "scripts": {
