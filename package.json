@@ -1,7 +1,7 @@
 {
   "name": "api-sim",
   "version": "0.1.2",
-  "description": "A Microservce for taking Screenshot s",
+  "description": "An API Simulating API Responses",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
@@ -9,18 +9,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lorderikir/fake-site-down.git"
+    "url": "git+https://github.com/monPlan/api-simulator.git"
   },
   "keywords": ["Microservice", "API", "Simulator"],
   "author": "lorderikir",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/lorderikir/fake-site-down/issues"
+    "url": "https://github.com/monPlan/api-simulator/issues"
   },
-  "homepage": "https://github.com/lorderikirfake-site-down#readme",
+  "homepage": "https://github.com/monPlan/api-simulator#readme",
   "dependencies": {
     "body-parser": "^1.18.2",
-    "express": "^4.16.3",
-    "now": "^11.0.6"
+    "express": "^4.16.3"
   }
 }

@@ -201,10 +201,6 @@ negotiator@0.6.1:
   version "0.6.1"
   resolved "https://registry.yarnpkg.com/negotiator/-/negotiator-0.6.1.tgz#2b327184e8992101177b28563fb5e7102acd0ca9"
 
-now@^11.0.6:
-  version "11.0.6"
-  resolved "https://registry.yarnpkg.com/now/-/now-11.0.6.tgz#9b36895652a0a3458ced8736336e61ca44e6a8bb"
-
 on-finished@~2.3.0:
   version "2.3.0"
   resolved "https://registry.yarnpkg.com/on-finished/-/on-finished-2.3.0.tgz#20f1336481b083cd75337992a16971aa2d906947"
